@@ -1,0 +1,28 @@
+{"intents": [
+        {"tag": "greeting",
+        "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "KLIYO", "hi KLIYO", "hey KLIYO", "hello KLIYO"],
+        "responses": ["Hello Learner!", "Good to see you again!", "Hi there, I enjoy chatting with humans!", "Hey!", "Hello there!", "Sup!"],
+        "context_set": ""
+        },
+        {"tag": "goodbye",
+        "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "ciao", "bye kliyo", "goodbye kliyo"],
+        "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!", "Byeee!", "Enjoyed talking to you!", "Bye favorite human!"],
+        "context_set": ""
+        },
+        {"tag": "name",
+        "patterns": ["what is your name", "what should I call you", "whats your name?", "your name", "So your name is Kliyo?"],
+        "responses": ["You can call me KLIYO.", "I'm KLIYO!", "My name is KLIYO!"],
+        "context_set": ""
+        },
+        {"tag": "Machine",
+        "patterns": ["what is this server for", "what is the server about?", "what is this", "Can i learn machine learning here", "whats this about", "what do we learn here", "machine learning"],
+        "responses": ["In this server, we enjoy and learn Machine Learning together!"],
+        "context_set": ""
+        },
+        {"tag": "feeling",
+        "patterns": ["how are you feeling", "how are you?", "you okay?", "all good?", "how are you","is everything good", "hows life", "how is life kliyo", "How are you kliyo?"],
+        "responses": ["I feel great!", "I am good, thanks for asking!", "Life is good", "All good sir", "Everything is good!"],
+        "context_set": ""
+        }
+    ]
+}
