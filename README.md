@@ -23,3 +23,14 @@ https://discord.com/api/oauth2/authorize?client_id=996470449171091467&permission
 
 ## KLIYO in action!  
 
+Here is what the ```-help``` command does:
+
+![-help ss](https://user-images.githubusercontent.com/72712113/184319577-6d2a01c8-d489-4e90-8565-960135950ef1.png)  
+
+Moreover, you can choose the Machine Learning Model you want from the list of models by typing ```-models``` in the chat. For example, here they chose model #2 by typing ```2``` in the chat and then typing ```test``` to test it!
+
+![test ss](https://user-images.githubusercontent.com/72712113/184319666-042325b7-e060-4501-bddc-e0051c28f40a.png)  
+
+Finally, don't forget to try the ```-chat``` command to socialize with KLIYO!  
+
+![chat ss](https://user-images.githubusercontent.com/72712113/184322079-57fa96d0-4642-4b5d-9315-037b694cf5b9.png)
