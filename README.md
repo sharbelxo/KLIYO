@@ -1,6 +1,6 @@
-# K L I Y O
+# K L I Y O 
 
-![minimized logo](https://user-images.githubusercontent.com/72712113/184324240-d594ad5c-9754-4464-abfe-e7309cc4fe0f.png) **KLIYO** is a Discord Bot that allows server visitors to explore a Machine Learning Playground created by **Sharbel**. KLIYO allows users to experience Machine Learning in its different models and uses. 
+**KLIYO** is a Discord Bot that allows server visitors to explore a Machine Learning Playground created by **Sharbel**. KLIYO allows users to experience Machine Learning in its different models and uses. 
 
 By adding KLIYO to your Discord Server, you will get the chance to experience hands-on interaction with Machine Learning Models such as Linear Regression and Logistic Regression. In addition, you can try to chat with KLIYO thanks to a Deep Neural Network made of 8 Layers that KLIYO is set up with.  
 
@@ -9,7 +9,7 @@ KLIYO allows users to:
 * Learn about more advanced Machine Learning Models such as Neural Networks and use them to predict the results of a very fun everyday task.  
 * Interact with the models by giving them inputs and checking out their unique outputs!  
 * Check the story behind certain problems and how a Machine Learning Model can fix them.  
-* Most importantly, KLIYO can provide you with Machine Learning jokes he finds "funny" :p
+* Most importantly, KLIYO can provide you with Machine Learning jokes he finds "funny" :p  
 
 ## Important Notes  
 * All the Machine Learning Models are built **manually** and without the use of Machine Learning libraries (except for the neural networks).
