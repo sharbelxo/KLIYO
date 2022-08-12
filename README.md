@@ -15,7 +15,7 @@ KLIYO allows users to:
 * All the Machine Learning Models are built **manually** and without the use of Machine Learning libraries (except for the neural networks).
 * Just like any Machine Learning Application, the accuracy of the models used is not 100% and the model could give you an inaccurate answer or an answer you did not except, so please, be patient with KLIYO and have fun!
 
-## Where to start?  
+## TRY KLIYO RIGHT NOW :space_invader:!  
 Follow the below steps to get KLIYO up and running:
 * Add Kliyo to your Discord Server using the link below &darr;  
 https://discord.com/api/oauth2/authorize?client_id=996470449171091467&permissions=534723947584&scope=bot  
