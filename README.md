@@ -1,4 +1,4 @@
-# K L I Y O  
+# ![minimized logo](https://user-images.githubusercontent.com/72712113/184324240-d594ad5c-9754-4464-abfe-e7309cc4fe0f.png) K L I Y O
 
 **KLIYO** is a Discord Bot that allows server visitors to explore a Machine Learning Playground created by **Sharbel**. KLIYO allows users to experience Machine Learning in its different models and uses. 
 
